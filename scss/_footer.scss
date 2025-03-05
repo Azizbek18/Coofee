@@ -1,30 +1,96 @@
-.footer .container{
-    padding: 30px 70px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #2C343E;
+.index__page{
+    .footer .container{
+        padding: 30px 70px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #2C343E;
+    }
+    
+    .footer__list{
+        gap: 100px;
+        display: flex;
+        align-items: center;
+    }
+    .footer__items{
+        gap: 25px;
+        display:flex;
+        align-items: center;
+    }
+    .footer__list .footer__link{
+        color: #83888F;
+        font-family: Barlow;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        letter-spacing: 0.92px;
+        padding: 10px 10px 0px;
+    }
+    .footer__list .footer__link:hover{
+        color: #0E8784;
+    }
 }
-
-.footer__list{
-    gap: 100px;
-    display: flex;
-    align-items: center;
+.adobe__page{
+    .footer .container{
+        padding: 30px 70px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #2C343E;
+    }
+    
+    .footer__list{
+        gap: 100px;
+        display: flex;
+        align-items: center;
+    }
+    .footer__items{
+        gap: 25px;
+        display:flex;
+        align-items: center;
+    }
+    .footer__list .footer__link{
+        color: #83888F;
+        font-family: Barlow;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        letter-spacing: 0.92px;
+        padding: 10px 10px 0px;
+    }
+    .footer__list .footer__link:hover{
+        color: #0E8784;
+    }
 }
-.footer__items{
-    gap: 25px;
-    display:flex;
-    align-items: center;
-}
-.footer__list .footer__link{
-    color: #83888F;
-    font-family: Barlow;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 15px;
-    letter-spacing: 0.92px;
-    padding: 10px 10px 0px;
-}
-.footer__list .footer__link:hover{
-    color: #0E8784;
+.completed__page{
+    .footer .container{
+        padding: 30px 70px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #2C343E;
+    }
+    
+    .footer__list{
+        gap: 100px;
+        display: flex;
+        align-items: center;
+    }
+    .footer__items{
+        gap: 25px;
+        display:flex;
+        align-items: center;
+    }
+    .footer__list .footer__link{
+        color: #83888F;
+        font-family: Barlow;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        letter-spacing: 0.92px;
+        padding: 10px 10px 0px;
+    }
+    .footer__list .footer__link:hover{
+        color: #0E8784;
+    }
 }
